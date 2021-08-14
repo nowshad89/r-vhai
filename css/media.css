@@ -1,0 +1,61 @@
+@media(min-width:0px) and (max-width:1399px){
+    
+}
+
+@media(min-width:0px) and (max-width:1199px){
+
+}
+
+@media(min-width:0px) and (max-width:991px){
+
+}
+
+@media(min-width:0px) and (max-width:767px){
+    .navbar-brand {
+        width: 38%;
+    }
+    .p-porichiti {
+         padding: 20px 0px;
+    }
+    .p-porichiti p {
+        font-size: 14px;
+    }
+    .authors{
+        margin-bottom: 40px;
+    }
+    .authors h6 {
+        margin: 11px 40px;
+    }
+    footer p{
+       margin-bottom: 12px; 
+    }
+    .l-icon-ul{
+        margin-bottom: 12px;
+    }
+    footer a{
+        margin-bottom: 12px;
+    }
+}
+
+@media(min-width:0px) and (max-width:575px){
+    .p-porichiti {
+        padding:20px;
+    }
+    .p-porichiti h1 {
+        font-size: 20px;
+    }
+
+}
+@media(min-width:0px) and (max-width:425px){
+
+}
+
+@media(min-width:0px) and (max-width:375px){
+
+}
+
+@media(min-width:0px) and (max-width:320px){
+    .navbar-brand {
+        width: 55%;
+    }
+}
